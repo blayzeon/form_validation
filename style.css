@@ -1,0 +1,15 @@
+form {
+    padding: 1rem;
+}
+
+form *{
+    margin-bottom: 0.5rem;
+}
+
+button, select{
+    cursor: pointer;
+}
+
+.invalid{
+    outline: 0.1rem solid red;
+}
